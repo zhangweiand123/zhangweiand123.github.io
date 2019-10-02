@@ -1,0 +1,65 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{index.html}
+= Wei Zhang
+
+~~~
+{}{img_left}{zhangwei.png}{Zhang Wei}
+Ph.D. \n
+[http://www.ee.cityu.edu.hk/ Department of Electrical Engineering]\n
+[http://www.cityu.edu.hk City University of Hong Kong]\n\n
+Email: wzhang237-c\[AT\]my\[DOT\]cityu\[DOT\]edu\[DOT\]hk
+~~~
+
+
+
+== About me
+~~~
+I am a Ph.D. candidate in the Department of Electrical Engineering at the City University of Hong Kong (CityU), supervised by with Prof. Shu-hung Leung and Prof. Taejoon Kim.
+Before this, I received the B.S. and M.S. degrees from the Harbin Institute of Technology, Harbin, China, in 2013 and 2015, respectively.
+~~~
+
+
+== Research interests
+~~~
+My researchs focus on low-rank matrix recovery and its application in millimeter wave channel estimation. The current research topics include:
+- Millimeter wave channel estimation: AoAs and AoDs estimation, hybrid precoding, and subspace estimation
+- Low-rank matrix recovery: restricted isolated property analysis and convex optimization
+- Statistical analysis: probability analysis and robust parameter estimation
+~~~
+
+
+
+== Publications
+~~~
+- W. Zhang, T. Kim, and S.\-H. Leung, A sequential subspace method for millimeter wave MIMO channel estimation, submitted to IEEE Transactions on Vehicular Technology, 2019.
+- W. Zhang, T. Kim, G. Xiong, and S.\-H. Leung, [https://reader.elsevier.com/reader/sd/pii/S0165168419301720?token=FD7327D5893032566BA76F8209754B92DF3E7B50268E1B1B751C64B0CCD8BE6A726DA3C3A11A30CABD6580183538C3FE Leveraging subspace information for low\-rank matrix reconstruction, Signal Processing], vol. 163, pp. 123\-131, 2019.
+- W. Zhang, T. Kim, D. J. Love, and E. Perrins, [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8409398 Leveraging the restricted isometry property\: Improved low\-rank subspace decomposition for hybrid millimeter-wave systems], IEEE Transactions on Communications, vol. 66, no. 11, pp. 5814\-5827, Nov 2018.
+- W. Zhang, T. Kim and D. J. Love, [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7842278 Sparse Subspace Decomposition for Millimeter Wave MIMO Channel Estimation], 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1\-6.
+- Y. Gao, W. Zhang and Y. Ma, [http://www.itiis.org/digital-library/manuscript/1191 Adaptive Adjustment of Compressed Measurements for Wideband Spectrum Sensing], KSII Transactions on Internet and Information Systems, vol. 10, no. 1, pp. 58\-78, 2016.
+- W. Zhang, Y. Gao and Z. Zhang, [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6743986 The interface design and realization of EMIF and FPGA for wireless transmission of image data], 2013 6th International Congress on Image and Signal Processing (CISP), Hangzhou, 2013, pp. 203\-207.
+~~~
+
+
+== Awards
+~~~
+- Excellent Graduate Student Award, HIT, 2014
+- National Motivational Scholarships, Ministry of Education of China, 2010,2011
+- First class of scholarship of HIT, 2010,2011,2012
+~~~
+
+== Professional activities
+~~~
+=== Technical reviewer
+- IEEE Transactions on Communications (TCOM), IEEE Transactions on Vehicular Technology (TVT), IEEE International Conference on Communications (ICC), IEEE Wireless Communications and Networking Conference (WCNC), IEEE Global Communications Conference (GLOBECOM).
+=== Teaching experience
+- Teaching assistant for Performance Evaluation of Communication Networks, CityU, Spring, 2016.
+- Teaching assistant for Principle of Communication, CityU, Fall, 2016.
+- Teaching assistant for Engineers in Society, CityU, Spring, 2017.
+- Teaching assistant for Wireless Connectivity in Modern Society, CityU, Spring, 2017. 
+- Teaching assistant for Light\: from Double Rainbows to Optical Fibers, CityU, Fall, 2017. 
+~~~
+
+
+
+
+
