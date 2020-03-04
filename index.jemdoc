@@ -31,7 +31,7 @@ My researchs focus on low-rank matrix recovery and its application in millimeter
 
 == Publications
 ~~~
-- W. Zhang, T. Kim, and S.\-H. Leung, A sequential subspace method for millimeter wave MIMO channel estimation, submitted to IEEE Transactions on Vehicular Technology, 2019.
+- W. Zhang, T. Kim, and S.\-H. Leung, A sequential subspace method for millimeter wave MIMO channel estimation, accepted by IEEE Transactions on Vehicular Technology, 2019.
 - W. Zhang, T. Kim, G. Xiong, and S.\-H. Leung, [https://reader.elsevier.com/reader/sd/pii/S0165168419301720?token=FD7327D5893032566BA76F8209754B92DF3E7B50268E1B1B751C64B0CCD8BE6A726DA3C3A11A30CABD6580183538C3FE Leveraging subspace information for low\-rank matrix reconstruction, Signal Processing], vol. 163, pp. 123\-131, 2019.
 - W. Zhang, T. Kim, D. J. Love, and E. Perrins, [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8409398 Leveraging the restricted isometry property\: Improved low\-rank subspace decomposition for hybrid millimeter-wave systems], IEEE Transactions on Communications, vol. 66, no. 11, pp. 5814\-5827, Nov 2018.
 - W. Zhang, T. Kim and D. J. Love, [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7842278 Sparse Subspace Decomposition for Millimeter Wave MIMO Channel Estimation], 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1\-6.
